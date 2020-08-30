@@ -5,8 +5,7 @@ const Header = () => {
      return (
           <div>
                <nav role="navigation" aria-label = "back" className="header">
-                    this is a header
-                    <Header>返回</Header>      
+                    <Header>back</Header>      
                </nav>
           </div>
      )
